@@ -1,0 +1,26 @@
+<ns2:entrypoint xmlns:ns2="http://package.name.in.reverse.order" xmlns:ns3="http://www.wonga.com/blaze">
+    <p>
+    <data>
+        <currentDecision>
+            <requestType>test</requestType>
+            <bureauData>
+                <callCredit>
+                    <report>testRep</report>
+                    <isAvailable>true</isAvailable>
+                </callCredit>
+            </bureauData>
+        </currentDecision>
+        <decisionId>12345</decisionId>
+    </data>
+    <decisions>
+    	<ns2:credit xmlns:ns2="http://www.wonga.com/blaze">
+                
+        </ns2:credit>
+     </decisions>
+    <errors>
+        <Error>
+            <code>none</code>
+        </Error>
+    </errors>
+</p>
+</ns2:entrypoint>
